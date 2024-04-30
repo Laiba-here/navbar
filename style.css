@@ -1,0 +1,26 @@
+body{
+    background: url(bg\ color.jfif) rgba(0,0,0,0.3);
+    background-blend-mode:multiply;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#header img {
+    width: 25px;
+    height: 15px;
+}
+.logo {
+    text-decoration: none;
+    color: black;
+}
+.nav-items a {
+    color: black;
+}
+.nav-items a:hover {
+    color: white;
+}
+.container img {
+    width: 100%;
+    height: 800px;
+    border-radius: 40px;
+}
